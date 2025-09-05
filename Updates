@@ -1,6 +1,6 @@
 {
-  "versionCode": v6.0.0,
-  "versionName": "6.0.0",
+  "versionCode": 6.0.0,
+  "versionName": "5.0.0",
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
@@ -14,7 +14,7 @@ Thanks for using",
   }
   
   {
-  "versionCode": 10,
+  "versionCode": "10",
   "versionName": "6.0.0",
   "Msg": "Please update the app.",
   "downloadLink": "https://t.me/DNSTorkani"
